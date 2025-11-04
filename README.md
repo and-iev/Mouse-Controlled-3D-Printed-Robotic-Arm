@@ -37,7 +37,7 @@
 | **Servo Z** | **D11** | 5 V | GND |
 
 
- **Final Construction Should look like [this]([url](https://imgur.com/a/4Hmcevf))**
+ **Final Construction Should look like [this](https://imgur.com/a/4Hmcevf)**
      
   
      
