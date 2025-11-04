@@ -3,7 +3,7 @@
 *This system allows for an intuitive control of the arm using standard computer input.* 
 
  ## Pre-Setup intstructions
- - You will need an Arduino UNO, Arduino Leonardo, a USB hostshield, and some jumper cables. 
+ - You will need an Arduino UNO, Arduino Leonardo, a USB hostshield, 3 Servo Motors, and some jumper cables. 
  - Once you have procured the aforementioned items you will need to solder 1 3.3V pad and 2 5V pads on the hostshield.
 
    ## Steup instructions
