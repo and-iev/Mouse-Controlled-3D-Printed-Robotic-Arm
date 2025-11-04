@@ -1,0 +1,2 @@
+1. There are M.2 screw holes meant for screwing in the servo motors so they are firmly in place
+2. The servo motors I used had a max of 180 degrees, if you have different ones, feel free to change the bounds in the code
