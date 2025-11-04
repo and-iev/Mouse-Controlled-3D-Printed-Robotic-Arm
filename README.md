@@ -13,14 +13,38 @@
    - 3D print the CAD files and assemble them
    - Install the Servo Motors, using the m.2 screws to screw them into place
    - Some Notes about construction listed in the "CadFiles" Folder
-    **Final Construction Should look like [this]([url](https://imgur.com/a/4Hmcevf))**
+   - I used the following wiring table, but you are free to do something else :D
+  
+
+
+## ⚙️ Hardware Connections
+
+
+| Leonardo Pin | Uno Pin | 
+|---------------|----------|
+| **TX1 (Pin 1)** | **RX (Pin 0)** | 
+| **GND** | **GND** |
+
+
+---
+
+ Uno → Servo Motors
+
+| Servo | Signal Pin | Power | Ground |
+|--------|-------------|--------|--------|
+| **Servo X** | **D9** | 5 V | GND |
+| **Servo Y** | **D10** | 5 V | GND |
+| **Servo Z** | **D11** | 5 V | GND |
+
+
+ **Final Construction Should look like [this]([url](https://imgur.com/a/4Hmcevf))**
      
   
      
 
 
-     **Demo video**
-      https://youtu.be/EMsUd_21su0
+   **Demo video**
+    https://youtu.be/EMsUd_21su0
 
 
 
